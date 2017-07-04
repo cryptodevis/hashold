@@ -2751,7 +2751,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0xbc;
         pchMessageStart[2] = 0xad;
         pchMessageStart[3] = 0xbd;
-        hashGenesisBlock = uint256("0x");
+        hashGenesisBlock = uint256("0xedf060880a41f8fe9c7521d663272673a510dfd193b0fdd918f2b34fdab34546");
     }
 
     //
