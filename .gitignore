@@ -1,0 +1,34 @@
+src/*.exe
+src/hashcoin
+src/hashcoind
+src/test_hashcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.hashcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+hashcoin-qt
+Hashcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+hashcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
