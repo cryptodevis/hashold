@@ -3,8 +3,8 @@ Hashcoin integration/staging tree
 
 http://www.hashcoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Hashcoin Developers
+Copyright (c) 2009-2016 Bitcoin Developers
+Copyright (c) 2016-2017 Hashcoin Developers
 
 What is Hashcoin?
 ----------------
